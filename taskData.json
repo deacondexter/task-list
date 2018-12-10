@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Eat a Taco",
+      "type": "Type1"
+    },
+    {
+      "name": "Eat a Burger",
+      "type": "Type2",
+      "id": 2
+    },
+    {
+      "name": "Grocery Shop",
+      "type": "Type3",
+      "id": 3
+    }
+  ]
+}
